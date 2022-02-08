@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chmin1020)](https://solved.ac/chmin1020/)
+
+
 <p>★ 선린인터넷고등학교 졸업 </p>
 <p>★ 연세대학교 컴퓨터과학과 재학중 </p>
 <p>★ 목표 분야 : 안드로이드 앱 개발 분야 </p>
