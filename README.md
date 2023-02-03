@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>★ 선린인터넷고등학교 졸업 </p>
-<p>★ 연세대학교 컴퓨터과학과 재학중 </p>
+<p>★ 선린인터넷고등학교 졸업🧑‍🎓 </p>
+<p>★ 연세대학교 컴퓨터과학과 재학중🌱 </p>
 <p>★ 목표 분야 : 안드로이드 앱 개발 </p>
 <p>★ 비모소프트 여름방학 인턴 근무 (과제 중심) (2022/07 ~ 2022/08)</p>
 <div>
@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 </div>
 <p>★ 안드로이드 개인 정리 노션 : https://thin-chemistry-9e7.notion.site/30ffe6eeadf04bd486a2de96a222a05b
 
+- 📫 연락처(email):  <a href="mailto:wonjongah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wonjongah@gmail.com"/></a>
 
