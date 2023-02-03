@@ -27,7 +27,4 @@ Here are some ideas to get you started:
 </div>
 
 <p>★ 안드로이드 개인 정리 노션 : https://thin-chemistry-9e7.notion.site/30ffe6eeadf04bd486a2de96a222a05b
-
-<p>★ 📫 연락처(email) <a href="mailto:wonjongah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wonjongah@gmail.com"/></a></
   
-
