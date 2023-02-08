@@ -27,9 +27,3 @@ Here are some ideas to get you started:
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chmin1020&layout=compact)](https://github.com/chmin1020/github-readme-stats)
-
-
-
-
-<p>★ 안드로이드 개인 정리 노션 : https://thin-chemistry-9e7.notion.site/30ffe6eeadf04bd486a2de96a222a05b
-  
